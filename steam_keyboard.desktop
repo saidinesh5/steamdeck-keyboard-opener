@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Open Steam Keyboard
+Exec=steam -ifrunning steam://open/keyboard
+Icon=input-keyboard-virtual
+Terminal=false
+Type=Application
+StartupNotify=false
